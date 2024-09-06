@@ -1,3 +1,5 @@
+Live Link : https://solar-panel-regression-mhqmsj42rj78yiwrsbefax.streamlit.app/
+
 Objective
 
 The variable to be predicted is continuous (energy production). Therefore, this is an Regression project. The primary goal is to model energy production as a function of environmental variables
